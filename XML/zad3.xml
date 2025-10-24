@@ -1,0 +1,39 @@
+<socialmedias>
+    <socialmedia>
+        <name oldname="none" address="www.instagram.com">Instagram</name>
+        <yearofcreation day="14" month="15">2010</yearofcreation>
+        <activeusers type="monthly" number="inmillions">1.2</activeusers>
+        <type format="mp4"  maxsize="14MB">communicator, posts, short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name oldname="Musicaly" address="www.tiktok.com">TikTok</name>
+        <yearofcreation day="14" month="15">2015</yearofcreation>
+        <activeusers type="monthly" number="inmillions">2.2</activeusers>
+        <type format="mov, avi"  maxsize="24MB">short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name oldname="none" address="www.facebook.com">Facebook</name>
+        <yearofcreation day="14" month="15">2007</yearofcreation>
+        <activeusers type="monthly" number="inmillions">3.4</activeusers>
+        <type format="mp4, mov"  maxsize="18MB">communicator, posts, short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name oldname="none" address="www.reddit.com">Reddit</name>
+        <yearofcreation day="14" month="15">2006</yearofcreation>
+        <activeusers type="monthly" number="inmillions">4.2</activeusers>
+        <type format="mp4"  maxsize="32MB">posts, short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name oldname="Twitter" address="www.x.com">X</name>
+        <yearofcreation day="14" month="15">2007</yearofcreation>
+        <activeusers type="monthly" number="inmillions">4.2</activeusers>
+        <type format="mp4, mov"  maxsize="32MB">posts</type>
+    </socialmedia>
+    <socialmedia>
+        <name oldname="none" address="www.bluesky.com">Bluesky</name>
+        <yearofcreation day="14" month="15">2024</yearofcreation>
+        <activeusers type="monthly" number="inmillions">6.2</activeusers>
+        <type format="mov"  maxsize="14MB">posts</type>
+    </socialmedia>
+
+</socialmedias>
