@@ -1,0 +1,39 @@
+<socialmedias>
+    <socialmedia>
+        <name>Instagram</name>
+        <dateofcreation>10.10.2010</dateofcreation>
+        <activeusers>1500000</activeusers>
+        <type>communicator, posts, short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name>TikTok</name>
+        <dateofcreation>15.07.2015</dateofcreation>
+        <activeusers>2000000</activeusers>
+        <type>short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name>Facebook</name>
+        <dateofcreation>12.12.2007</dateofcreation>
+        <activeusers>12000000</activeusers>
+        <type>communicator, posts, short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name>Reddit</name>
+        <dateofcreation>18.06.2006</dateofcreation>
+        <activeusers>4000000</activeusers>
+        <type>posts, short form videos</type>
+    </socialmedia>
+    <socialmedia>
+        <name>Twitter</name>
+        <dateofcreation>18.03.2007</dateofcreation>
+        <activeusers>4000000</activeusers>
+        <type>posts</type>
+    </socialmedia>
+    <socialmedia>
+        <name>Bluesky</name>
+        <dateofcreation>28.04.2024</dateofcreation>
+        <activeusers>600000</activeusers>
+        <type>posts</type>
+    </socialmedia>
+
+</socialmedias>
