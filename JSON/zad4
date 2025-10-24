@@ -1,0 +1,22 @@
+{
+    "name": "Facebook",
+    "users": 1000000,
+    "revenue": 91235412,
+    "averageDailyScreenTime": 4.6,
+    
+    "serversOnline": true,
+    "highUserTraffic": false,
+
+    "features":[
+        "messaging",
+        "friends",
+        "sharing"
+    ],
+
+    "algorithmData": 
+    {
+        "showCatVideos": true,
+        "showFriendPosts": true,
+        "postsBeforeAd": 5
+    }
+}
