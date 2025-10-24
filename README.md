@@ -61,6 +61,8 @@ w mediach społecznościowych w podziale na płeć.
 
 ## Obrazy
 
-![img](IMG\jpg.jpg)
+![img](IMG\jpg1.jpg)
 ![](https://img.freepik.com/free-photo/website-hosting-concept-with-bright-light_23-2149406783.jpg?semt=ais_hybrid&w=740&q=80)
 ![](https://media.istockphoto.com/id/1439425791/photo/digital-technology-software-development-concept-coding-programmer-working-on-laptop-with.jpg?s=612x612&w=0&k=20&c=43WZfDZcnI2lULx83NVAtFiGyzKHzi4HyLqYZgggX-c=)
+
+
