@@ -1,0 +1,42 @@
+[{
+    "name":"Jan Nowak",
+    "friends": 53,
+    "hasProfilePicture": true,
+    "averageScreenTime": 2.1,
+    "interest": "cars"
+},
+{
+    "name":"Anna Kowalska",
+    "friends": 13,
+    "hasProfilePicture": false,
+    "averageScreenTime": 0.3,
+    "interest": "cats"
+},
+{
+    "name":"Zygmunt Nowak",
+    "friends": 4,
+    "hasProfilePicture": true,
+    "averageScreenTime": 0.4,
+    "interest": "fishing"
+},
+{
+    "name":"Kornel Balawajder",
+    "friends": 123,
+    "hasProfilePicture": true,
+    "averageScreenTime": 3.6,
+    "interest": "cars"
+},
+{
+    "name":"Piotr Kowalski",
+    "friends": 32,
+    "hasProfilePicture": true,
+    "averageScreenTime": 1.3,
+    "interest": "hiking"
+},
+{
+    "name":"Henryk Ryczek",
+    "friends": 177,
+    "hasProfilePicture": false,
+    "averageScreenTime": 3.0,
+    "interest": "cycling"
+}]
